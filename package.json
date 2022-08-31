@@ -1,0 +1,19 @@
+{
+  "name": "api-heroes",
+  "version": "1.0.0",
+  "description": "api de heroes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "heroes",
+    "node"
+  ],
+  "author": "Lainer Caceres",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
