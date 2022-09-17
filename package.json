@@ -2,9 +2,9 @@
   "name": "api-heroes",
   "version": "1.0.0",
   "description": "api de heroes",
-  "main": "index.js",
+  "main": "db.json",
   "scripts": {
-    "start": "node index.js"
+    "start": "node db.json"
   },
   "keywords": [
     "api",
